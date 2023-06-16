@@ -4,12 +4,10 @@
 - 🚀 I’m currently working on Rocket.Chat
 - 🌱 I’m learning more about BackEnd Development
 
-<div align="center">
-  <!--
+<!--<div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=totoi690&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" />
-  -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=totoi690&show_icons=true&theme=dracula&hide_border=true&layout=compact" align="center" />
-</div>  
+</div>  -->
 
 
 #### Programming
