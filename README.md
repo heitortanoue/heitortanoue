@@ -1,8 +1,8 @@
-## Hi 👋, I'm Heitor
+## I'm Heitor Tanoue
 ### 🎓 Computer Engineering student at USP
 
 - 🚀 I’m currently working on Rocket.Chat
-- 🌱 I’m learning more about BackEnd Development
+- 🌱 I’m learning more about BackEnd Development using Go
 
 <!--<div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=totoi690&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" />
@@ -12,6 +12,7 @@
 
 #### Programming
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
