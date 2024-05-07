@@ -5,7 +5,7 @@ I'm a **Computer Engineering student** at [@USP](https://www5.usp.br/) and **Bac
 I also have some side projects, such as [@VestCards](https://vestcards.com.br), a web plataform for brazilian students to learn for the ENEM and other exams.
 
 - 🐝 **Ask me about**: MERN stack, Golang, Python, Database Modeling and C
-- 🌱 **Currently learning**: Blockchain and Solidity
+- 🌱 **Currently learning**: Golang && Microsservices
 
 <!--<div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitortanoue&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" />
