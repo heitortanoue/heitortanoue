@@ -1,11 +1,11 @@
 ## Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Heitor Tanoue
 
-I'm a **Computer Engineering student** at [@USP](https://www5.usp.br/) and **Back-End Developer Intern** at [@Rocket.Chat](https://www.rocket.chat/), an open-source communications platform, where I work with the cloud team using Golang and TypeScript.
+I'm a **Computer Engineering student** at [@USP](https://www5.usp.br/) and **Software Engineer Intern** at [@Cobli](https://www.cobli.co/), an fleet management platform, where I work with the Fleet Monitoring team using Kotlin, TypeScript and React.
 
 I also have some side projects, such as [@VestCards](https://vestcards.com.br), a web plataform for brazilian students to learn for the ENEM and other exams.
 
-- 🐝 **Ask me about**: MERN stack, Golang, Python, Database Modeling and C
-- 🌱 **Currently learning**: Golang && Microsservices
+- 🐝 **Ask me about**: MERN stack, Golang, Kotlin, Python, Database Modeling and C
+- 🌱 **Currently learning**: Kotlin && Microsservices
 
 <!--<div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitortanoue&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" />
@@ -16,6 +16,7 @@ I also have some side projects, such as [@VestCards](https://vestcards.com.br), 
 #### Programming
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
