@@ -1,6 +1,6 @@
 ## Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Heitor Tanoue
 
-I'm a **Computer Engineering student** at [@USP](https://www5.usp.br/) and **Software Engineer Intern** at [@Cobli](https://www.cobli.co/), an fleet management platform, where I work with the Fleet Monitoring team using Kotlin, TypeScript and React.
+I'm a **Computer Engineering student** at [@USP](https://www5.usp.br/) and **Software Engineer** at [@Cobli](https://www.cobli.co/), an fleet management platform, where I work with the Fleet Monitoring team using Kotlin, TypeScript and React.
 
 I also have some side projects, such as [@VestCards](https://vestcards.com.br), a web plataform for brazilian students to learn for the ENEM and other exams.
 
