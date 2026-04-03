@@ -1,11 +1,10 @@
 ## Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Heitor Tanoue
 
-I'm a **Computer Engineering student** at [@USP](https://www5.usp.br/) and **Software Engineer** at [@Cobli](https://www.cobli.co/), an fleet management platform, where I work with the Fleet Monitoring team using Kotlin, TypeScript and React.
+I'm a **Computer Engineering student** at [@USP](https://www5.usp.br/) and **Software Engineer** at [@LoadSmart](https://www.loadsmart.com/), an fleet management platform, where I work using Python (Django), Typescript and React.
 
 I also have some side projects, such as [@VestCards](https://vestcards.com.br), a web plataform for brazilian students to learn for the ENEM and other exams.
 
-- 🐝 **Ask me about**: MERN stack, Golang, Kotlin, Python, Database Modeling and C
-- 🌱 **Currently learning**: Kotlin && Microsservices
+- 🌱 **Currently learning**: Distributed Systems
 
 <!--<div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitortanoue&show_icons=true&theme=dracula&count_private=true&hide_border=true" align="center" />
@@ -26,7 +25,6 @@ I also have some side projects, such as [@VestCards](https://vestcards.com.br), 
 
 #### Favorite tools
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
