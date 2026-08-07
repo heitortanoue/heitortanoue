@@ -1,8 +1,10 @@
 ## Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Heitor Tanoue
 
-I'm a **Computer Engineering student** at [@USP](https://www5.usp.br/) and **Software Engineer** at [@LoadSmart](https://www.loadsmart.com/), an fleet management platform, where I work using Python (Django), Typescript and React.
+I'm a **M.Eng. Computer Science student** at [@KU Leuven](https://www.kuleuven.be/) and **Software Engineer** at [@Loadsmart](https://www.loadsmart.com/), a freight technology platform, where I work using Python (Django), TypeScript and React.
 
-I also have some side projects, such as [@VestCards](https://vestcards.com.br), a web plataform for brazilian students to learn for the ENEM and other exams.
+I previously studied **Computer Engineering** at [@USP](https://www5.usp.br/), and I'm particularly interested in distributed systems and software engineering.
+
+I also have some side projects, such as [@VestCards](https://vestcards.com.br), a web platform that helps Brazilian students prepare for the ENEM and other university entrance exams.
 
 - 🌱 **Currently learning**: Distributed Systems
 
@@ -16,7 +18,7 @@ I also have some side projects, such as [@VestCards](https://vestcards.com.br), 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -24,7 +26,7 @@ I also have some side projects, such as [@VestCards](https://vestcards.com.br), 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Favorite tools
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
